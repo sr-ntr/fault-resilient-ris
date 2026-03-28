@@ -8,6 +8,6 @@ A PyTorch-based implementation of a deep neural network for detecting faulty pix
 - Task: Multi-label classification (predict failed pixels)  
 - Handles class imbalance (~74.5% healthy pixels)
 
-##Reference
+## Reference
 
 Based on RIS fault detection methodology described in the paper "Fault-Resilient RIS Systems: Toward SINR- and Sum-Rate Maximization of IoT Networks Using ML Frameworks"(Section V-A).
